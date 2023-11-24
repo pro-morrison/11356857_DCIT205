@@ -1,0 +1,104 @@
+
+body {
+  font-family: 'Segoe UI';
+  margin: 0;
+  padding: 0;
+}
+
+.table-container {
+  display: flex;
+  margin: 20px;
+}
+
+.table-wrapper {
+  width: 48%;
+  margin-right: 4%; 
+}
+
+.table-container .table-container {
+  margin-top: 20px; 
+}
+
+.table-container .table-wrapper {
+  margin-right: 0;
+  margin-left: 4%;
+}
+
+.table-container .table-container .table-wrapper {
+  margin-top: 0; 
+}
+
+.table-container .table-wrapper .table-container .table-wrapper {
+  margin-top: 0; 
+  
+}
+
+.table-header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  cursor: pointer;
+}
+.table-header:hover{
+  background-color: rgb(255, 228, 196); 
+}
+.table-content {
+  display: none;
+  padding: 10px;
+  
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  border: 1px solid white;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: left;
+  background-color: white;
+}
+
+.grid-section {
+  padding: 20px;
+} 
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.div-grid {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.grid-item {
+  border: 1px solid #ddd;
+   padding: 10px; 
+  margin: 5px;
+  cursor: pointer;
+}
+
+.content {
+  display: none;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  width: 95%;
+  height: auto;
+}
+.grid-item:hover{
+background-color: rgb(255, 228, 196);
+}
