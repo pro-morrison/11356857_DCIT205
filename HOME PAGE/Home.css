@@ -1,0 +1,85 @@
+body {
+  transition: background-color 0.5s ease;
+  font-family:'Segoe UI';
+  margin: 0;
+  padding: 0 8% 0 8%;
+  color: #333;
+  background-color: #fff;
+}
+
+section {
+  width: 100%;
+}
+
+#section1 {
+  margin-top:1%;
+  height: 450px;
+  background-color: rgba(47, 209, 110, 0.5);
+}
+
+
+#video-container {
+  height: 450px;
+  width: 100%;
+}
+
+#section2,
+#section3 {
+  height: 450px;
+  width: 100%;
+}
+
+
+#section3 {
+  display: grid;
+  grid-template-columns: 2fr 1fr; 
+  gap: 20px;
+  height: 450px; 
+  background-color: #fff; 
+}
+
+#section3.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content:left;
+  padding: 0;
+  border-radius: 8px;
+}
+ .why-choose{
+  background-color: rgb(255, 228, 196) ;
+  padding: 10px;
+  margin-top: 0;
+  text-align: center;
+}
+#section3 .text-grid p {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+#section3 .image-text-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+#section3 .top-div img {
+  width: 100%;
+  height: 250px;
+}
+
+#section3 .bottom-div p {
+  margin-top: 5px;
+}
+
+#section3 .bottom-div a {
+  color: #333;
+  text-decoration: underline;
+}
+#section3 .bottom-div a:hover{
+  color: aqua;
+}
+
+#section3 .bottom-div {
+  margin-top: 20px;
+}
+
