@@ -71,6 +71,14 @@ If you encounter any issues with the start command, you can open the home.html f
 
 - We welcome contributions! If you have relevant content, updates, or suggestions, please feel free to reach out or submit a pull request.
 
+## Screenshots
+
+![Screenshot (3)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/564c4e27-50e8-48a6-a371-725249a5d5f4)
+![Screenshot (4)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/b366ddbb-beb9-4773-9ee7-12057ef07ff
+![Screenshot (6)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/1f909432-15c9-4377-80c5-6bf57b03a3bd)
+![Screenshot (5)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/067ee094-9506-4946-a3e8-8b70fc6645b4)
+
+
 
 
  
