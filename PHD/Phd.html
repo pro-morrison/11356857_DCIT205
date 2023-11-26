@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PHD</title>
+  <link rel="stylesheet" href="/PHD/Phd.css">
+  <link rel="shortcut icon" href="/image/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="/images and common elements/common elements/image-text-element.css">
+  <link rel="stylesheet" href="/images and common elements/common elements/div-text-element.css">
+  <script src="/PHD/Phd.js"></script>
+</head>
+<body>
+  <header-navbar></header-navbar>
+  <section id="section1">
+    <img src="/images and common elements/images/welcome.jpg" alt="Welcome"> 
+    <div id="plain-text">Insight Into Our PHD Program </div>
+    <div id="link-text">Go Back To Home</div>
+    <a href="/HOME PAGE/Home.html"></a>
+  </section>
+   <grid-items></grid-items>
+    <h3 >COURSE STRUCTURE</h3>
+    <div class="table-container">
+      <div class="table-wrapper">
+        <div class="table-header"  onclick="toggleTable('Year 1', 'Year 2')" >Year 1</div>
+        <div class="table-content" id="Year 1">
+          <table>
+            
+            <thead>
+              <tr>
+                <th>First semester</th>
+                <th>Second semester</th>
+                
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Science  And Society (Faculty wide)</td>
+                <td>New Developments In Cybersecurity And Networks</td>
+                
+              </tr>
+              <tr>
+                <td>Special Topics In Science</td>
+                <td>Advanced Quantitative Research Methods</td>
+              </tr>
+              <tr>
+                <td>Grand Research Challenges In Computer Science</td>
+                <td>New Directions In Artificial Intelligence</td>
+              </tr>
+              <tr>
+                <td>Ubiquitous Computing</td>
+                <td>New Developments In Computer Architechture</td>
+              </tr>
+              <tr>
+                <td>Emerging Database Models</td>
+                <td>New Generation In Wireless Systems And Networks</td>
+              </tr>
+              <tr>
+                <td>Research In Bioinformatics And Computational Biology</td>
+                <td>Research Issues In Social Networks</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>Advances In High Performance Computing</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>Teaching Science At The Tertiary Level</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+  
+        <div class="table-header" onclick="toggleTable('Year 2', 'Year 1')">Year 2</div>
+        <div class="table-content" id="Year 2">
+          <table>
+            
+            <thead>
+              <tr>
+                <th>First semester</th>
+                <th>Second semester</th>
+                
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>	Seminar I (Research Proposal)</td>
+                <td>Seminar II (Experiential research learning)</td>
+                
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+  
+      <div class="table-wrapper">
+        <div class="table-header" onclick="toggleTable('Year 3','Year 4' )">Year 3</div>
+        <div class="table-content" id="Year 3">
+          <table>
+           
+            <thead>
+              <tr>
+                <th>First semester</th>
+                
+               
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Seminar III (Research progress)</td>
+                
+              </tr>
+            </tbody>
+          </table>
+        </div>
+  
+        <div class="table-header" onclick="toggleTable('Year 4', 'Year 3')">Year 4</div>
+        <div class="table-content" id="Year 4">
+          <table>
+            
+            <thead>
+              <tr>
+                <th>Second semester</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Seminar IV (Research Results)</td>
+              </tr>
+              <tr>
+                <td>PhD Thesis</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <section class="grid-section">
+      <div class="grid-container">
+         
+          <div class="div-grid">
+              <div class="grid-item" onclick="toggleContent('content1')">
+                  <h2>GET TO KNOW US</h2>
+                  <div class="content" id="content1">
+                    <p>Welcome to the dynamic and forward-thinking Computer Science department at the University of Ghana.
+                      Our Ph.D. program is meticulously crafted to offer scholars an immersive and advanced education in computer science.
+                      We foster groundbreaking research and provide an enriching environment for individuals dedicated to pushing the boundaries
+                      of knowledge in the ever-evolving landscape of technology.
+                    </p>
+                  </div>
+              </div>
+              <div class="grid-item" onclick="toggleContent('content2')">
+                  <h2>ADMISSION REQUIREMENTS</h2>
+                  <div class="content" id="content2">
+                      <p>Welcome to the Ph.D. program at the Computer Science department of the University of Ghana.
+                         To ensure a smooth application process, please meet the following key admission requirements:</p>
+                  
+                      <ul style="background-color: #fff;">
+                          <li><strong>Educational Qualifications:</strong> Possession of a master's degree in a related field .</li>
+                          <li><strong>Research Proposal:</strong> Submit a well-defined research proposal outlining your intended area of study and research objectives.</li>
+                          <li><strong>Letters of Recommendation:</strong> Provide three letters of recommendation from academic referees who can attest to your research capabilities.</li>
+                      </ul>
+                  
+                      <p>We look forward to receiving applications from motivated individuals who meet 
+                        these essential requirements. For more details or inquiries, please don't hesitate to <a href="/contact">contact us</a>.</p>
+                  
+                  
+                  </div>
+              </div>
+              <div class="grid-item" onclick="toggleContent('content3')">
+                  <h2>PROGRAM OVERVIEW</h2>
+                  <div class="content" id="content3">
+                  <p>  Our doctoral programme is a full-time research programme with expected duration of 4-years. <br> 
+                  For the successful completion of this programme, a high level of commitment is required. <br>
+                  Students are therefore expected to reside close to the University and be a full-time participant in the program. <br>
+                  With guidance from postgraduate committee, Ph.D.  students will create a personalized program of study that
+                  includes a major area of specialization  and at least two minor areas of specialization. <br>
+                  In addition to coursework, the department holds regular seminars where students and faculty review and critique research in the field. To foster prudent critique, students are expected to join at most one research lab and participate in research activities carried out by the group. The research areas of the department are Intelligent Space and Machine Learning, Data Science/Big Data Analytics, Networking and Communications Engineering, and Cyber Security
+                  </p>
+                 </div>
+              </div>
+          </div>
+
+          
+          <div class="image-container">
+            <img src="/images and common elements/images/images (1).jpg" alt="Example Image">
+          </div>
+      </div>
+  </section>
+  <script>
+    
+function toggleContent(contentId) {
+  var contents = document.querySelectorAll('.content');
+
+  contents.forEach(function (content) {
+      if (content.id === contentId) {
+          content.style.display = 'block';
+      } else {
+          content.style.display = 'none';
+      }
+  });
+}
+
+  </script>
+  <footer-part></footer-part>
+ 
+  <script src="/images and common elements/common elements/Header-nav-elements.js"></script>
+  <script src="/images and common elements/common elements/grid-items-element.js"></script>
+  <script src="/images and common elements/common elements/Footer-element.js"></script>
+</body>
+</html>
