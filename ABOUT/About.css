@@ -1,0 +1,13 @@
+#welcome{
+text-align: justify;
+text-align-last:center ;
+line-height: 1.5; 
+font-size: large;
+}
+h3{
+  background-color:rgb(255, 228, 196) ;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+
+}
