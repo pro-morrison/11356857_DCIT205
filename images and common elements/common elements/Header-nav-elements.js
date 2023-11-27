@@ -71,7 +71,7 @@
         <li><a href="/HOME PAGE/Home.html">Home</a></li>
         <li><a href="/ABOUT/About.html">About</a></li>
         <li><a href="/FACULTY/Faculty.html">Faculty</a></li>
-        <li><a href="/ALUMINI/Alumini.html">Alumini</a></li>
+        <li><a href="/Contact/contact.html">Contact Us</a></li>
         <li><a href="/EVENTS/events.html">Events</a></li>
       
       </ul>

@@ -14,7 +14,7 @@ section {
 #section1 {
   margin-top:1%;
   height: 450px;
-  background-color: rgba(47, 209, 110, 0.5);
+  background-color: #fff;
 }
 
 
@@ -30,7 +30,7 @@ section {
 }
 
 
-#section3 {
+ #section3 {
   display: grid;
   grid-template-columns: 2fr 1fr; 
   gap: 20px;
@@ -76,10 +76,18 @@ section {
   text-decoration: underline;
 }
 #section3 .bottom-div a:hover{
-  color: aqua;
+  color: rgb(183, 125, 54);
 }
 
 #section3 .bottom-div {
   margin-top: 20px;
 }
+ 
+ 
+
+ @media (max-width: 768px) {
+   .grid-item {
+     flex: 0 0 100%; 
+   }
+ }
 

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="/Contact/contact.css">
+    <link rel="shortcut icon" href="/image/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/images and common elements/common elements/div-text-element.css">
+</head>
+<body>
+    <header-navbar></header-navbar>
+
+    <h2>Contact us</h2>
+    <table>
+        <tr>
+            <th>Location</th>
+            <td>University Of Ghana, Legon Campus, Opposite Mathematics Department</td>
+        </tr>
+        <tr>
+            <th>Phone Number</th>
+            <td>+233 501 382 035 or  +233 559 145 698</td>
+        </tr>
+        <tr>
+            <th>Email</th>
+            <td>dcs@ug.edu.gh</td>
+        </tr>
+    </table>
+    <h2>Map</h2>
+    <div class="google-map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3970.4043426716153!2d-0.1863656!3d5.654505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf9d35c7bc40fd%3A0x760b35f47b34835d!2sComputer%20Science%20Department%2C%20University%20of%20Ghana!5e0!3m2!1sen!2sgh!4v1701097846318!5m2!1sen!2sgh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <section class="grid-section">
+        <div class="grid-container">
+           
+            <div class="div-grid">
+                <div class="grid-item" onclick="toggleContent('content1')">
+                    <h2>GET TO KNOW US</h2>
+                    <div class="content" id="content1">
+                        
+                        <p>
+                          The University of Ghana is one of the Africa's most preeminent public universities.
+                          Our impact on individuals, our region and the world is profound. 
+                          whether we are launching young people into a boundless future or confronting the grand
+                          challenges of our time through dauntless research. UG educates more than 38,000students
+                          annually, with approximately 2.64% being computer science students. We turn ideas into
+                          impact and transform the world around us. For more about our impact, visit our news 
+                          site, UG News
+                        </p>
+                    </div>
+                </div>
+                <div class="grid-item" onclick="toggleContent('content2')">
+                    <h2> DISTANCE LEARNING</h2>
+                    <div class="content" id="content2">
+                        
+                        <p>
+                          Experience a UG-CDCD classroom from wherever you are. 
+                          Take advantage of real-time lectures and personal interaction with professors through a 
+                          suite of online delivery options, customizing your degree to fit your schedule.
+                          Our online classroom maintains the same level of academic rigor, while providing students
+                          with more ways of learning.
+                        </p>
+                    </div>
+                </div>
+                <div class="grid-item" onclick="toggleContent('content3')">
+                    <h2>MISSION AND VISION</h2>
+                    <div class="content" id="content3">
+                        
+                        <p>
+                          Our mission is to advance knowledge and innovation in the field of 
+                          Computer Science through cutting-edge research, quality education, and
+                          impactful community engagement
+                        </p>
+                        <p>
+                          To be a globally recognized hub for excellence in 
+                          computer science education, research, and technological innovation.
+                        </p>
+                    </div>
+                </div>
+            </div>
+    
+            
+            <div class="image-container">
+              <img src="/images and common elements/images/images (1).jpg" alt="Example Image">
+            </div>
+        </div>
+    </section>
+    
+    <script>
+      
+    function toggleContent(contentId) {
+    var contents = document.querySelectorAll('.content');
+    
+    contents.forEach(function (content) {
+        if (content.id === contentId) {
+            content.style.display = 'block';
+        } else {
+            content.style.display = 'none';
+        }
+    });
+    }
+   </script>
+    <footer-part></footer-part>
+    <script src="/images and common elements/common elements/Header-nav-elements.js"></script>
+    <script src="/images and common elements/common elements/Footer-element.js"></script>
+    
+</body>
+</html>
