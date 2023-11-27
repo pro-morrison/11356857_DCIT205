@@ -70,22 +70,49 @@ If you encounter any issues with the start command, you can open the home.html f
 ## Contributing:
 
 - We welcome contributions! If you have relevant content, updates, or suggestions, please feel free to reach out or submit a pull request.
+# What I Have Learnt
+In doing this project, I have learnt how to use the correct html elements to give the desired effect as well as css.
+I have also learnt to not be frustrated when the code is not running as it is obviously a mistake that has been made and so I 
+try my possible best to cal down and figure it out. I think the most interesting thing I have learnt so far is how to use js to make reusable code.
+This is done by creating a custom html element in js. This really helped with the project.
+
 
 ## Screenshots
 
-![Screenshot (3)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/564c4e27-50e8-48a6-a371-725249a5d5f4)
-![Screenshot (4)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/b366ddbb-beb9-4773-9ee7-12057ef07ff
-![Screenshot (6)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/1f909432-15c9-4377-80c5-6bf57b03a3bd)
-![Screenshot (5)](https://github.com/Daquiver1/DCIT_205_IA/assets/150991401/067ee094-9506-4946-a3e8-8b70fc6645b4)
+![Screenshot (3)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/660e6188-82d9-4160-9609-cd36fc60771f)
 
+![Screenshot (4)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/b80525ea-a9b5-43cc-bf47-fb6af592df92)
 
+![Screenshot (14)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/2b9629ab-f1d6-4b71-b204-31f2a39a905f)
 
+![Screenshot (6)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/f3c9fabc-f607-4467-8b25-31673e538844)
 
+![Screenshot (9)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/9f91f1dc-c362-49b3-97c1-5078a62e3901)
  
+![Screenshot (10)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/85f6eae4-214d-43ab-9a28-a7fb9a7d8fe8)
 
+![Screenshot (13)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/9cdb373f-ea93-4b68-9999-54d82380614e)
 
+![Screenshot (12)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/eb0b09f6-e329-4d76-aa71-7682ea14dd01)
 
+![Screenshot (15)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/c319eb3b-5bc4-4656-9652-b246705d94f4)
 
+![Screenshot (16)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/78e398a4-2ac4-481c-b970-9c04ad8b2e19)
+![Screenshot (18)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/7511af71-03ea-4f6d-b68a-16d38f338724)
+![Screenshot (19)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/d56ae8a0-15fc-4af1-8dbb-867d7ff3f615)
+![Screenshot (20)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/10258cfe-139d-4d09-985e-a8d1038a091a)
+![Screenshot (21)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/27df69b0-ba37-4dbc-b0e9-1ca5e863e78d)
 
+![Screenshot (22)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/396f5d87-4e3c-4e44-b73f-2f5b29c39243)
 
+![Screenshot (17)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/6653d562-fe79-4f58-bcaf-0146c5ee836d)
+![Screenshot (24)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/6649e650-6d77-4312-bd14-79d77c74a0ee)
+
+![Screenshot (25)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/7be8edbd-176d-4bb8-a10f-5322efba5576)
+![Screenshot (26)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/3d4f9607-33a6-474a-80a3-05fe0eb1293a)
+![Screenshot (27)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/9ed6acd6-c1c1-484b-96d1-c1b4533e7787)
+
+![Screenshot (28)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/58df915d-03bc-44db-9a64-a58d2d2546bc)
+
+![Screenshot (29)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/2895ea1b-8086-44f6-b778-3ab94fa04f5b)
 
