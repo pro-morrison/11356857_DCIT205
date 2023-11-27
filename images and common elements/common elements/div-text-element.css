@@ -1,0 +1,38 @@
+
+    .grid-section {
+      padding: 20px;
+    } 
+    
+    .grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    
+    .div-grid {
+      display: flex;
+      flex-direction: column;
+      
+    }
+    .grid-item {
+      border: 1px solid #ddd;
+       padding: 10px; 
+      margin: 5px;
+      cursor: pointer;
+    }
+    
+    .content {
+      display: none;
+    }
+    
+    .image-container {
+      text-align: center;
+    }
+    
+    .image-container img {
+      width: 95%;
+      height: auto;
+    }
+    .grid-item:hover{
+    background-color: rgb(255, 228, 196);
+    }
+   
