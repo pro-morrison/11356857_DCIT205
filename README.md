@@ -77,6 +77,10 @@ try my possible best to cal down and figure it out. I think the most interesting
 This is done by creating a custom html element in js. This really helped with the project.
 
 
+## Slideshow of my screenshots
+![slideshow](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/a5190883-490d-4f9a-b4ce-24df97b6e4da)
+
+
 ## Screenshots
 
 ![Screenshot (3)](https://github.com/pro-morrison/11356857_DCIT205/assets/150991401/660e6188-82d9-4160-9609-cd36fc60771f)
